@@ -1,0 +1,6 @@
+store_id,store_name,city,state,region
+STR001,Downtown Store,Kansas City,MO,Midwest
+STR002,Plaza Store,Overland Park,KS,Midwest
+STR003,River Market Store,Omaha,NE,Midwest
+STR004,Capitol Store,Austin,TX,South
+STR005,Harbor Store,Seattle,WA,West

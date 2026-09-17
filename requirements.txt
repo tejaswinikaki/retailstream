@@ -1,0 +1,6 @@
+pyspark==3.5.1
+delta-spark==3.1.0
+kafka-python-ng==2.2.3
+Faker==25.9.2
+PyYAML==6.0.1
+pytest==8.2.2
