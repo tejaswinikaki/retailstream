@@ -4,3 +4,5 @@ kafka-python-ng==2.2.3
 Faker==25.9.2
 PyYAML==6.0.1
 pytest==8.2.2
+streamlit
+google-genai
