@@ -37,3 +37,12 @@ The repository includes a dashboard screenshot for preview.
 ## Power BI Dashboard Preview
 
 ![RetailStream Power BI Dashboard](screenshots/retailstream_powerbi_dashboard.png)
+
+## Data Science Analysis
+
+- Generated and analyzed 1,000 synthetic retail sales events.
+- Performed exploratory data analysis with sales-by-category, sales-by-region, and order-value distribution charts.
+- Validated records before analysis by checking duplicates, missing values, and invalid numeric values.
+- Performed a Welch’s t-test to compare Midwest and West average order values; the synthetic sample showed no statistically significant difference.
+- Built a Logistic Regression demonstration to classify high-value versus standard-value orders. Results are documented as synthetic-data performance only.
+- See `notebooks/retail_sales_eda.ipynb` for the full analysis and `DATA_DICTIONARY.md` for field definitions.
