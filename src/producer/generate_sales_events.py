@@ -44,7 +44,7 @@ def main():
 
     events = [
         create_sales_event(random.choice(products), random.choice(stores))
-        for _ in range(20)
+        for _ in range(1000)
     ]
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
