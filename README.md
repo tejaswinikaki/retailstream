@@ -34,3 +34,6 @@ Developed an interactive Power BI report using processed retail sales data from 
 The repository includes the Power BI report (`.pbix`) and a dashboard screenshot for preview.
 
 The repository includes a dashboard screenshot for preview.
+## Power BI Dashboard Preview
+
+![RetailStream Power BI Dashboard](screenshots/retailstream_powerbi_dashboard.png)
