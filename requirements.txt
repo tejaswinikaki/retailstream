@@ -6,3 +6,10 @@ PyYAML==6.0.1
 pytest==8.2.2
 streamlit
 google-genai
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+jupyter
+ipykernel
